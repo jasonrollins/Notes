@@ -1,0 +1,53 @@
+Security Controls:
+  Administrative (Managerial)
+  Technical (Logical)
+  Physical (Operational)
+
+Polices:
+  Acceptable Use Policy
+  Data Sensitivity and Classificaiton Policies
+  Access Control Policies
+  Password Polices
+  Care and Use of Equipment
+  Privacy Policies
+  Personnel Policies
+
+Risk Management:
+  Assets:  Any part of our infrastructre that we are worried about being harmed.
+    Infrastrucre, People, Computers...
+  Vulnerability:
+  Threats:
+    Threat Agent
+  Likelihood = level of certanity that something bad will happen
+    Quantitative Likelihood
+    Qualitative Likelihood: 1-10 or Low, Medium, High
+  Impact:
+    Quantitative Likelihood
+    Qualitative Likelihood
+  NIST SP 800-30: Lists of risks (used for risk assessment)
+  Nessus: program
+  Penatration Testing (Pen Testing)
+  Threat Assessment:
+    Adversarial
+    Accidental
+    Structural
+    Environmental
+  Risk Response:
+    Risk Mitigation
+    Risk Transference
+    Risk Acceptance
+    Risk Avoidance
+  Frameworks:
+    NIST Risk Management Framework Special Publication 800-37
+    ISACA Risk IT Framework
+
+  Quantitative Risk Calculations
+    Replacement Costs or Asset Value
+    Exposure Factor:  Percentage of an asset that's lost as the result of an incident
+    Asset Value X Exposure Factor = Single Loss Expectancy
+    ARO: Annualized Rate of Occurrence
+    SLE: Single Loss Expectancy = Asset Value X Exposure Factor
+    SLE X ARO = Annualized Loss Expectancy (ALE)
+    MTTR: Mean Time To Repair (similar to NPT)
+    MTTF: Mean Time to Failure
+    MTBF: Mean Time between Failure = MTTR + MTTF
